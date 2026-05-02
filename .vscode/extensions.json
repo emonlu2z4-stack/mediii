@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dart-code.dart-code",
+    "dart-code.flutter",
+    "felixangelov.bloc",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "pkief.material-icon-theme"
+  ]
+}
